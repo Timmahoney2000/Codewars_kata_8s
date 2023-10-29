@@ -1,4 +1,4 @@
-// bmi calculator
+//bmi calculator
 
 function bmi(weight, height) {
   let bmi = weight / (height**2);
